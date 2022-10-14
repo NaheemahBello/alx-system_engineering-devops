@@ -37,7 +37,7 @@ tasks `102` and `103`.
   from 1 to 10 using a `while` loop and:
     * Displays `bad luck` on the 4th iteration.
     * Displays `good luck` on the 8th iteration.
-    * Displays `Holberton School` for all other iterations.
+    * Displays `ALX` for all other iterations.
   * Uses the `if`, `elif`, and `else` statements.
 
 * **6. Superstitious numbers**
