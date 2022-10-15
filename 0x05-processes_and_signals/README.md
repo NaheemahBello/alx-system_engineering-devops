@@ -15,8 +15,8 @@ Project done during **Full Stack Software Engineering studies** at **ALX**. It a
 | `2-show_your_bash_pid` | Displays lines contaning the `bash` word in a list of currently running processes |
 | `3-show_your_bash_pid_made_easy` | Displays the PID, along with the process name, of processes whose name contain the word `Bash` |
 | `4-to_infinity_and_beyond` | Displays `To infinity and beyond` indefinitely |
-| `5-kill_me_now` | Kills `4-to_infinity_and_beyond` process |
-| `6-kill_me_now_made_easy` | Kills `4-to_infinity_and_beyond` process |
+| `5-dont_stop_me_now` | Kills `4-to_infinity_and_beyond` process |
+| `6-stop_me_if_you_can` | Kills `4-to_infinity_and_beyond` process |
 | `7-highlander` | Displays `To infinity and beyond` indefinitely and displays `I am invincible!!!` when receiving a `SIGTERM` signal |
 | `8-beheaded_process` | Kills the process `7-highlander` |
 | `100-process_and_pid_file` | Prints some messages according to sended signals |
